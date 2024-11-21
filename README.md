@@ -3,12 +3,16 @@
 <h2> Information Technology Projects</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Prerequisites and Installation](https://github.com/juanmtz03/osticket-prereqs)
-  - [Post-Installation Configuration](https://github.com/juanmtz03/post-install-config)
-  - [Ticket Lifecycle Examples](https://github.com/juanmtz03/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/juanmtz03/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/juanmtz03/post-install-config)
+  - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/juanmtz03/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/juanmtz03/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/juanmtz03/azure-network-protocols)
+
+  - [Inspecting Network Traffic in Azure](https://github.com/juanmtz03/configure-ad)
+  - [Installing Active Directory in Azure](https://github.com/juanmtz03/azure-network-protocols)
+  - [Configuring Active Directory in Azure](https://github.com/juanmtz03/azure-network-protocols)
+  - [Understanding DNS in Azure](https://github.com/juanmtz03/azure-network-protocols)
+  - [Understanding File Permissions in Azure](https://github.com/juanmtz03/azure-network-protocols)
 
 <h2>Connect with me:</h2>
 
