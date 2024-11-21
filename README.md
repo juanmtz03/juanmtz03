@@ -8,11 +8,11 @@
   - [osTicket: Resolving Tickets in a Ticketing System](https://github.com/juanmtz03/ticket-lifecycle)
 - <b>Microsoft Azure</b>
 
-  - [Inspecting Network Traffic in Azure](https://github.com/juanmtz03/configure-ad)
-  - [Installing Active Directory in Azure](https://github.com/juanmtz03/azure-network-protocols)
-  - [Configuring Active Directory in Azure](https://github.com/juanmtz03/azure-network-protocols)
-  - [Understanding DNS in Azure](https://github.com/juanmtz03/azure-network-protocols)
-  - [Understanding File Permissions in Azure](https://github.com/juanmtz03/azure-network-protocols)
+  - [Inspecting Network Traffic in Azure](https://github.com/juanmtz03/Inspecting-Network-Traffic-in-Azure)
+  - [Installing Active Directory in Azure](https://github.com/juanmtz03/Installing-Active-Directory-in-Azure)
+  - [Configuring Active Directory in Azure](https://github.com/juanmtz03/Configuring-Active-Directory-in-Azure)
+  - [Understanding DNS in Azure](https://github.com/juanmtz03/Understanding-DNS-in-Azure)
+  - [Understanding File Permissions in Azure](https://github.com/juanmtz03/-Understanding-File-Permissions-in-Azure)
 
 <h2>Connect with me:</h2>
 
